@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "salah-counter",
+    "slug": "snack-41484c77-20ca-42f4-a1b4-c6a887b69673",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.octa001010.snack41484c7720ca42f4a1b4c6a887b69673"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5fa9233d-c11c-430f-b4b7-354ddf821410"
+      }
+    }
+  }
+}
